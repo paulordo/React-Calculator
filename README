@@ -1,0 +1,77 @@
+🔢 React Native Calculator App
+A simple and stylish calculator app built with React Native. This project is designed to demonstrate a clean user interface with beautiful styling and functional arithmetic operations.
+
+📱 Features:
+Basic arithmetic operations: Addition, Subtraction, Multiplication, Division.
+
+Supports parentheses for complex calculations.
+
+Clear, delete (backspace), and percentage functionalities.
+
+Modern dark theme with vibrant button colors.
+
+Interactive UI with smooth and responsive buttons.
+
+💡 Technologies Used:
+React Native: For building the mobile application.
+
+JavaScript: Core language for app logic.
+
+Expo: For easier development and testing.
+
+🚀 How to Run the App:
+Clone the repository.
+
+Install dependencies with:
+
+bash
+Copiar
+Editar
+npm install
+Start the app with:
+
+bash
+Copiar
+Editar
+npx expo start
+Scan the QR code with Expo Go (Android) or run on an emulator.
+
+🔢 Aplicativo de Calculadora React Native
+Um aplicativo de calculadora simples e estiloso construído com React Native. Este projeto foi desenvolvido para demonstrar uma interface de usuário limpa, com um design bonito e operações aritméticas funcionais.
+
+📱 Funcionalidades:
+Operações aritméticas básicas: Adição, Subtração, Multiplicação, Divisão.
+
+Suporte a parênteses para cálculos complexos.
+
+Funcionalidades de limpar, apagar (backspace) e porcentagem.
+
+Tema moderno escuro com cores vibrantes nos botões.
+
+Interface interativa com botões suaves e responsivos.
+
+💡 Tecnologias Utilizadas:
+React Native: Para construir o aplicativo mobile.
+
+JavaScript: Linguagem principal para a lógica do app.
+
+Expo: Para facilitar o desenvolvimento e teste.
+
+🚀 Como Executar o Aplicativo:
+Clone o repositório.
+
+Instale as dependências com:
+
+bash
+Copiar
+Editar
+npm install
+Inicie o aplicativo com:
+
+bash
+Copiar
+Editar
+npx expo start
+Escaneie o QR code com o Expo Go (Android) ou rode em um emulador.
+
+Quer que eu ajude a deixar essa descrição ainda mais profissional e bonita no GitHub, com emojis e uma estrutura organizada? 😄 🚀
