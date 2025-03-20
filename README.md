@@ -1,50 +1,134 @@
-# Welcome to your Expo app 👋
+# React Native Calculator
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A simple calculator developed in React Native as part of a beginner project for a portfolio. The design is minimalist and styled to be interesting and modern.
 
-## Get started
+## 📌 Features
+- Perform basic mathematical operations: Addition, Subtraction, Multiplication, and Division.
+- User-friendly and responsive interface.
+- Attractive design with React Native.
 
-1. Install dependencies
+## 🚀 Technologies Used
+- React Native
+- JavaScript
+- Tailwind CSS (for styling)
 
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
+## 📂 Project Structure
+```
+React-Calculator/
+|-- frontend/
+|   |-- src/
+|   |   |-- components/
+|   |   |-- App.js
+|   |   |-- index.js
+|-- README.md
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 📖 Installation and Usage
+1. Clone the repository:
+```bash
+  git clone https://github.com/seu-usuario/React-Calculator.git
+```
+2. Navigate to the project folder:
+```bash
+  cd React-Calculator/frontend
+```
+3. Install the dependencies:
+```bash
+  npm install
+```
+4. Start the application:
+```bash
+  npx expo start
+```
 
-## Learn more
+## 🤝 Contribution
+Feel free to contribute with improvements, new features, or bug fixes! Just:
+1. Fork the project.
+2. Create a new branch:
+```bash
+git checkout -b my-feature
+```
+3. Make the desired changes and commit them:
+```bash
+git commit -m "Adding new feature"
+```
+4. Push the changes:
+```bash
+git push origin my-feature
+```
+5. Open a Pull Request explaining your changes.
 
-To learn more about developing your project with Expo, look at the following resources:
+## 📄 License
+This project is licensed under the MIT License. Feel free to use and modify it as you wish.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
+Created by Paulo
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+# Calculadora React Native
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Uma calculadora simples desenvolvida em React Native como parte de um projeto iniciante para portfólio. O design é minimalista e estilizado para ser interessante e moderno.
+
+## 📌 Funcionalidades
+- Realizar operações matemáticas básicas: Adição, Subtração, Multiplicação e Divisão.
+- Interface amigável e responsiva.
+- Design interessante com React Native.
+
+## 🚀 Tecnologias Utilizadas
+- React Native
+- JavaScript
+- Tailwind CSS (para estilização)
+
+## 📂 Estrutura do Projeto
+```
+React-Calculator/
+|-- frontend/
+|   |-- src/
+|   |   |-- components/
+|   |   |-- App.js
+|   |   |-- index.js
+|-- README.md
+```
+
+## 📖 Instalação e Uso
+1. Clone o repositório:
+```bash
+  git clone https://github.com/seu-usuario/React-Calculator.git
+```
+2. Navegue até a pasta do projeto:
+```bash
+  cd React-Calculator/frontend
+```
+3. Instale as dependências:
+```bash
+  npm install
+```
+4. Inicie o aplicativo:
+```bash
+  npx expo start
+```
+
+## 🤝 Contribuição
+Sinta-se à vontade para contribuir com melhorias, novas funcionalidades ou correções de bugs! Basta:
+1. Fazer um fork do projeto.
+2. Criar uma nova branch:
+```bash
+git checkout -b minha-feature
+```
+3. Fazer as alterações desejadas e commitá-las:
+```bash
+git commit -m "Adicionando nova funcionalidade"
+```
+4. Enviar as alterações:
+```bash
+git push origin minha-feature
+```
+5. Abrir um Pull Request explicando suas mudanças.
+
+## 📄 Licença
+Este projeto está sob a licença MIT. Sinta-se livre para usá-lo e modificá-lo como quiser.
+
+---
+Criado por Paulo
+
