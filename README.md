@@ -22,6 +22,10 @@ React-Calculator/
 |   |   |-- index.js
 |-- README.md
 ```
+## 🖼️ Screenshots
+Here are some screenshots of the application:
+![image](https://github.com/user-attachments/assets/4c5a57b2-1683-4d85-91e1-3b86fd8da9fa)
+![image](https://github.com/user-attachments/assets/23b74ec6-0c15-49b6-b910-9fa2290eb2eb)
 
 ## 📖 Installation and Usage
 1. Clone the repository:
@@ -90,6 +94,11 @@ React-Calculator/
 |   |   |-- index.js
 |-- README.md
 ```
+
+🖼️ Screenshots
+Aqui estão algumas capturas de tela da aplicação:
+![image](https://github.com/user-attachments/assets/4c5a57b2-1683-4d85-91e1-3b86fd8da9fa)
+![image](https://github.com/user-attachments/assets/23b74ec6-0c15-49b6-b910-9fa2290eb2eb)
 
 ## 📖 Instalação e Uso
 1. Clone o repositório:
